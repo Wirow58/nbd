@@ -1,5 +1,7 @@
+package zestaw1
+
 object z4 {
-  def main(args: Array[String]) : Unit = {
+  def main(args: Array[String]): Unit = {
     val daysOfWeek = List(
       "Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota", "Niedziela")
 
@@ -8,15 +10,15 @@ object z4 {
     println(foldLeftWithP(daysOfWeek))
   }
 
-  def getDaysByFoldLeft(list: List[String]) : String = {
+  def getDaysByFoldLeft(list: List[String]): String = {
     list.tail.foldLeft(list.head)(_ + "," + _)
   }
 
-  def getDaysByFoldRight(list: List[String]) : String = {
+  def getDaysByFoldRight(list: List[String]): String = {
     list.dropRight(1).foldRight(list.last)(_ + "," + _)
   }
 
-  def foldLeftWithP(list: List[String]) : String = {
+  def foldLeftWithP(list: List[String]): String = {
     list.filter(_.toUpperCase().startsWith("P")).tail.foldLeft(list.head)(_ + "," + _)
   }
 }

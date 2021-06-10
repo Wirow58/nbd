@@ -1,4 +1,4 @@
-import scala.collection.convert.ImplicitConversions.`seq AsJavaList`
+package zestaw1
 
 object z8 {
   def main(args: Array[String]): Unit = {
@@ -17,6 +17,7 @@ object z8 {
       else
         doRemove(index + 1, currentList)
     }
+
     doRemove(0, intList)
   }
 }

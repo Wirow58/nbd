@@ -1,7 +1,9 @@
+package zestaw1
+
 import scala.annotation.tailrec
 
 object z3 {
-  def main(args: Array[String]) : Unit = {
+  def main(args: Array[String]): Unit = {
     val daysOfWeek = List(
       "Poniedziałek",
       "Wtorek",
@@ -14,10 +16,10 @@ object z3 {
     println(getWeekdaysString(daysOfWeek))
   }
 
-  def getWeekdaysString(list: List[String]) : String = {
+  def getWeekdaysString(list: List[String]): String = {
     @tailrec
-    def tailrecFun(list: List[String], result: String) : String = {
-      if(list.isEmpty)
+    def tailrecFun(list: List[String], result: String): String = {
+      if (list.isEmpty)
         result
       else
         tailrecFun(list.tail, result + "," + list.head)
