@@ -1,0 +1,622 @@
+MongoDB shell version v4.0.24
+connecting to: mongodb://127.0.0.1:27017/nbd?gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("772c3c53-047e-4c0d-86a4-0bcbb1a9ae15") }
+MongoDB server version: 4.0.24
+[
+	{
+		"Bilans na karcie" : 5189,
+		"waluta" : "BMD"
+	},
+	{
+		"Bilans na karcie" : 7782.66,
+		"waluta" : "BND"
+	},
+	{
+		"Bilans na karcie" : 21598.47,
+		"waluta" : "ERN"
+	},
+	{
+		"Bilans na karcie" : 19686.77,
+		"waluta" : "SRD"
+	},
+	{
+		"Bilans na karcie" : 14734.27,
+		"waluta" : "DJF"
+	},
+	{
+		"Bilans na karcie" : 13053.5,
+		"waluta" : "GYD"
+	},
+	{
+		"Bilans na karcie" : 4854.36,
+		"waluta" : "STD"
+	},
+	{
+		"Bilans na karcie" : 55361.39,
+		"waluta" : "BSD"
+	},
+	{
+		"Bilans na karcie" : 43326.06,
+		"waluta" : "LBP"
+	},
+	{
+		"Bilans na karcie" : 7282.73,
+		"waluta" : "AWG"
+	},
+	{
+		"Bilans na karcie" : 37654,
+		"waluta" : "TWD"
+	},
+	{
+		"Bilans na karcie" : 73222.48,
+		"waluta" : "GNF"
+	},
+	{
+		"Bilans na karcie" : 5118.97,
+		"waluta" : "FKP"
+	},
+	{
+		"Bilans na karcie" : 26720.5,
+		"waluta" : "BBD"
+	},
+	{
+		"Bilans na karcie" : 23023.02,
+		"waluta" : "HKD"
+	},
+	{
+		"Bilans na karcie" : 14797.58,
+		"waluta" : "SCR"
+	},
+	{
+		"Bilans na karcie" : 9983,
+		"waluta" : "SBD"
+	},
+	{
+		"Bilans na karcie" : 108940.64,
+		"waluta" : "CHF"
+	},
+	{
+		"Bilans na karcie" : 82506.07,
+		"waluta" : "KWD"
+	},
+	{
+		"Bilans na karcie" : 26269.07,
+		"waluta" : "LSL"
+	},
+	{
+		"Bilans na karcie" : 37711.08,
+		"waluta" : "BTN"
+	},
+	{
+		"Bilans na karcie" : 24296.690000000002,
+		"waluta" : "BZD"
+	},
+	{
+		"Bilans na karcie" : 32068.850000000002,
+		"waluta" : "MVR"
+	},
+	{
+		"Bilans na karcie" : 142978.86,
+		"waluta" : "ZWL"
+	},
+	{
+		"Bilans na karcie" : 67582.8,
+		"waluta" : "AOA"
+	},
+	{
+		"Bilans na karcie" : 24172.940000000002,
+		"waluta" : "INR"
+	},
+	{
+		"Bilans na karcie" : 9321.43,
+		"waluta" : "FJD"
+	},
+	{
+		"Bilans na karcie" : 16809.66,
+		"waluta" : "KYD"
+	},
+	{
+		"Bilans na karcie" : 36358.92,
+		"waluta" : "QAR"
+	},
+	{
+		"Bilans na karcie" : 325755.9,
+		"waluta" : "TND"
+	},
+	{
+		"Bilans na karcie" : 338447.54,
+		"waluta" : "NZD"
+	},
+	{
+		"Bilans na karcie" : 231996.14,
+		"waluta" : "UYU"
+	},
+	{
+		"Bilans na karcie" : 160940.53,
+		"waluta" : "ZMW"
+	},
+	{
+		"Bilans na karcie" : 43299.96,
+		"waluta" : "RWF"
+	},
+	{
+		"Bilans na karcie" : 243512.86,
+		"waluta" : "GBP"
+	},
+	{
+		"Bilans na karcie" : 100447.58,
+		"waluta" : "KHR"
+	},
+	{
+		"Bilans na karcie" : 52973.33,
+		"waluta" : "AED"
+	},
+	{
+		"Bilans na karcie" : 167531.82,
+		"waluta" : "IQD"
+	},
+	{
+		"Bilans na karcie" : 18414.53,
+		"waluta" : "TRY"
+	},
+	{
+		"Bilans na karcie" : 61445.270000000004,
+		"waluta" : "PGK"
+	},
+	{
+		"Bilans na karcie" : 257433.54,
+		"waluta" : "BOB"
+	},
+	{
+		"Bilans na karcie" : 588368.85,
+		"waluta" : "GTQ"
+	},
+	{
+		"Bilans na karcie" : 689403.5,
+		"waluta" : "HRK"
+	},
+	{
+		"Bilans na karcie" : 1395639.11,
+		"waluta" : "VND"
+	},
+	{
+		"Bilans na karcie" : 132926.01,
+		"waluta" : "XPF"
+	},
+	{
+		"Bilans na karcie" : 528336.14,
+		"waluta" : "EGP"
+	},
+	{
+		"Bilans na karcie" : 83159.05,
+		"waluta" : "GHS"
+	},
+	{
+		"Bilans na karcie" : 116224.9,
+		"waluta" : "SLL"
+	},
+	{
+		"Bilans na karcie" : 23188.93,
+		"waluta" : "VUV"
+	},
+	{
+		"Bilans na karcie" : 4086760.81,
+		"waluta" : "USD"
+	},
+	{
+		"Bilans na karcie" : 934043.61,
+		"waluta" : "XOF"
+	},
+	{
+		"Bilans na karcie" : 22698.46,
+		"waluta" : "BHD"
+	},
+	{
+		"Bilans na karcie" : 1973241.6,
+		"waluta" : "CAD"
+	},
+	{
+		"Bilans na karcie" : 760113.61,
+		"waluta" : "NOK"
+	},
+	{
+		"Bilans na karcie" : 12166.2,
+		"waluta" : "DZD"
+	},
+	{
+		"Bilans na karcie" : 286515.48,
+		"waluta" : "PYG"
+	},
+	{
+		"Bilans na karcie" : 2584824.9,
+		"waluta" : "JPY"
+	},
+	{
+		"Bilans na karcie" : 1547673.09,
+		"waluta" : "MXN"
+	},
+	{
+		"Bilans na karcie" : 932463.66,
+		"waluta" : "ZAR"
+	},
+	{
+		"Bilans na karcie" : 2356548.02,
+		"waluta" : "PEN"
+	},
+	{
+		"Bilans na karcie" : 269686.62,
+		"waluta" : "ETB"
+	},
+	{
+		"Bilans na karcie" : 5066972.36,
+		"waluta" : "PLN"
+	},
+	{
+		"Bilans na karcie" : 15619806.11,
+		"waluta" : "IDR"
+	},
+	{
+		"Bilans na karcie" : 16700089.28,
+		"waluta" : "EUR"
+	},
+	{
+		"Bilans na karcie" : 345203.25,
+		"waluta" : "UGX"
+	},
+	{
+		"Bilans na karcie" : 157963.9,
+		"waluta" : "GMD"
+	},
+	{
+		"Bilans na karcie" : 11557.6,
+		"waluta" : "RON"
+	},
+	{
+		"Bilans na karcie" : 177401.05,
+		"waluta" : "TJS"
+	},
+	{
+		"Bilans na karcie" : 146972.04,
+		"waluta" : "BWP"
+	},
+	{
+		"Bilans na karcie" : 2505840.72,
+		"waluta" : "UAH"
+	},
+	{
+		"Bilans na karcie" : 651597.87,
+		"waluta" : "ALL"
+	},
+	{
+		"Bilans na karcie" : 269798.11,
+		"waluta" : "KES"
+	},
+	{
+		"Bilans na karcie" : 687770.55,
+		"waluta" : "PKR"
+	},
+	{
+		"Bilans na karcie" : 215992.13,
+		"waluta" : "HTG"
+	},
+	{
+		"Bilans na karcie" : 363643.61,
+		"waluta" : "PAB"
+	},
+	{
+		"Bilans na karcie" : 182130.48,
+		"waluta" : "MUR"
+	},
+	{
+		"Bilans na karcie" : 168150.01,
+		"waluta" : "XCD"
+	},
+	{
+		"Bilans na karcie" : 3706221.0100000002,
+		"waluta" : "SEK"
+	},
+	{
+		"Bilans na karcie" : 12820.48,
+		"waluta" : "SGD"
+	},
+	{
+		"Bilans na karcie" : 2084269.88,
+		"waluta" : "THB"
+	},
+	{
+		"Bilans na karcie" : 5609900,
+		"waluta" : "BRL"
+	},
+	{
+		"Bilans na karcie" : 178097.37,
+		"waluta" : "CDF"
+	},
+	{
+		"Bilans na karcie" : 45782.33,
+		"waluta" : "BIF"
+	},
+	{
+		"Bilans na karcie" : 817695.24,
+		"waluta" : "HNL"
+	},
+	{
+		"Bilans na karcie" : 639977.48,
+		"waluta" : "MNT"
+	},
+	{
+		"Bilans na karcie" : 8532474.09,
+		"waluta" : "RUB"
+	},
+	{
+		"Bilans na karcie" : 510936.11,
+		"waluta" : "MAD"
+	},
+	{
+		"Bilans na karcie" : 8223429.02,
+		"waluta" : "PHP"
+	},
+	{
+		"Bilans na karcie" : 225111.38999999998,
+		"waluta" : "LKR"
+	},
+	{
+		"Bilans na karcie" : 27425502.27,
+		"waluta" : "CNY"
+	},
+	{
+		"Bilans na karcie" : 5337.77,
+		"waluta" : "MOP"
+	},
+	{
+		"Bilans na karcie" : 1282147.14,
+		"waluta" : "NGN"
+	},
+	{
+		"Bilans na karcie" : 583657.38,
+		"waluta" : "YER"
+	},
+	{
+		"Bilans na karcie" : 242667.03,
+		"waluta" : "AUD"
+	},
+	{
+		"Bilans na karcie" : 666533.65,
+		"waluta" : "MYR"
+	},
+	{
+		"Bilans na karcie" : 433497.06,
+		"waluta" : "KRW"
+	},
+	{
+		"Bilans na karcie" : 86305.05,
+		"waluta" : "LAK"
+	},
+	{
+		"Bilans na karcie" : 42256.53,
+		"waluta" : "SSP"
+	},
+	{
+		"Bilans na karcie" : 176827.79,
+		"waluta" : "KGS"
+	},
+	{
+		"Bilans na karcie" : 804397.05,
+		"waluta" : "IRR"
+	},
+	{
+		"Bilans na karcie" : 222518.63,
+		"waluta" : "KPW"
+	},
+	{
+		"Bilans na karcie" : 220627.42,
+		"waluta" : "LTL"
+	},
+	{
+		"Bilans na karcie" : 2644211.16,
+		"waluta" : "CZK"
+	},
+	{
+		"Bilans na karcie" : 44471.32,
+		"waluta" : "MRO"
+	},
+	{
+		"Bilans na karcie" : 1940347.24,
+		"waluta" : "ARS"
+	},
+	{
+		"Bilans na karcie" : 210496.68,
+		"waluta" : "JOD"
+	},
+	{
+		"Bilans na karcie" : 55420.34,
+		"waluta" : "NAD"
+	},
+	{
+		"Bilans na karcie" : 223284.76,
+		"waluta" : "MMK"
+	},
+	{
+		"Bilans na karcie" : 330309.61,
+		"waluta" : "UZS"
+	},
+	{
+		"Bilans na karcie" : 87008.08,
+		"waluta" : "OMR"
+	},
+	{
+		"Bilans na karcie" : 584923.2,
+		"waluta" : "KZT"
+	},
+	{
+		"Bilans na karcie" : 758807.63,
+		"waluta" : "ILS"
+	},
+	{
+		"Bilans na karcie" : 415965.47,
+		"waluta" : "BAM"
+	},
+	{
+		"Bilans na karcie" : 21354.39,
+		"waluta" : "ANG"
+	},
+	{
+		"Bilans na karcie" : 602964.09,
+		"waluta" : "AMD"
+	},
+	{
+		"Bilans na karcie" : 222452.28,
+		"waluta" : "DKK"
+	},
+	{
+		"Bilans na karcie" : 394880.17,
+		"waluta" : "AZN"
+	},
+	{
+		"Bilans na karcie" : 736336.77,
+		"waluta" : "XAF"
+	},
+	{
+		"Bilans na karcie" : 161706,
+		"waluta" : "SAR"
+	},
+	{
+		"Bilans na karcie" : 201447.71,
+		"waluta" : "JMD"
+	},
+	{
+		"Bilans na karcie" : 603855.99,
+		"waluta" : "TZS"
+	},
+	{
+		"Bilans na karcie" : 146606.65,
+		"waluta" : "NPR"
+	},
+	{
+		"Bilans na karcie" : 294843.38,
+		"waluta" : "BDT"
+	},
+	{
+		"Bilans na karcie" : 817403.54,
+		"waluta" : "RSD"
+	},
+	{
+		"Bilans na karcie" : 138004.7,
+		"waluta" : "KMF"
+	},
+	{
+		"Bilans na karcie" : 629053.41,
+		"waluta" : "VEF"
+	},
+	{
+		"Bilans na karcie" : 514413.88,
+		"waluta" : "CUP"
+	},
+	{
+		"Bilans na karcie" : 88106.83,
+		"waluta" : "MWK"
+	},
+	{
+		"Bilans na karcie" : 157276.96,
+		"waluta" : "GEL"
+	},
+	{
+		"Bilans na karcie" : 30739.64,
+		"waluta" : "WST"
+	},
+	{
+		"Bilans na karcie" : 39048.74,
+		"waluta" : "ISK"
+	},
+	{
+		"Bilans na karcie" : 496641.83,
+		"waluta" : "BGN"
+	},
+	{
+		"Bilans na karcie" : 388620.14,
+		"waluta" : "CLP"
+	},
+	{
+		"Bilans na karcie" : 197545.65,
+		"waluta" : "LYD"
+	},
+	{
+		"Bilans na karcie" : 501467.35,
+		"waluta" : "SYP"
+	},
+	{
+		"Bilans na karcie" : 127317.75,
+		"waluta" : "SDG"
+	},
+	{
+		"Bilans na karcie" : 92068.64,
+		"waluta" : "MZN"
+	},
+	{
+		"Bilans na karcie" : 82203.48,
+		"waluta" : "SOS"
+	},
+	{
+		"Bilans na karcie" : 113099.62,
+		"waluta" : "TMT"
+	},
+	{
+		"Bilans na karcie" : 44044.89,
+		"waluta" : "TTD"
+	},
+	{
+		"Bilans na karcie" : 1976194.79,
+		"waluta" : "COP"
+	},
+	{
+		"Bilans na karcie" : 54883.45,
+		"waluta" : "LRD"
+	},
+	{
+		"Bilans na karcie" : 686489.84,
+		"waluta" : "BYR"
+	},
+	{
+		"Bilans na karcie" : 173318.73,
+		"waluta" : "MDL"
+	},
+	{
+		"Bilans na karcie" : 46538.51,
+		"waluta" : "CVE"
+	},
+	{
+		"Bilans na karcie" : 661834.75,
+		"waluta" : "AFN"
+	},
+	{
+		"Bilans na karcie" : 334544.06,
+		"waluta" : "CRC"
+	},
+	{
+		"Bilans na karcie" : 59113.090000000004,
+		"waluta" : "SZL"
+	},
+	{
+		"Bilans na karcie" : 377675.55,
+		"waluta" : "MGA"
+	},
+	{
+		"Bilans na karcie" : 534069.77,
+		"waluta" : "DOP"
+	},
+	{
+		"Bilans na karcie" : 165192.16,
+		"waluta" : "HUF"
+	},
+	{
+		"Bilans na karcie" : 18424.47,
+		"waluta" : "TOP"
+	},
+	{
+		"Bilans na karcie" : 436912.01,
+		"waluta" : "MKD"
+	},
+	{
+		"Bilans na karcie" : 240664.87,
+		"waluta" : "NIO"
+	}
+]

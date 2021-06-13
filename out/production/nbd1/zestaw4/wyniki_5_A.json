@@ -1,0 +1,371 @@
+MongoDB shell version v4.0.24
+connecting to: mongodb://127.0.0.1:27017/nbd?gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("c5e16432-a2d3-4dc5-8071-8ffb0887fa94") }
+MongoDB server version: 4.0.24
+[
+	{
+		"_id" : "MYR",
+		"Average balance" : 4781,
+		"Total balance" : 4781
+	},
+	{
+		"_id" : "ALL",
+		"Average balance" : 3325,
+		"Total balance" : 3325
+	},
+	{
+		"_id" : "MAD",
+		"Average balance" : 3818,
+		"Total balance" : 3818
+	},
+	{
+		"_id" : "LYD",
+		"Average balance" : 4382,
+		"Total balance" : 8764
+	},
+	{
+		"_id" : "XPF",
+		"Average balance" : 4759,
+		"Total balance" : 4759
+	},
+	{
+		"_id" : "BYR",
+		"Average balance" : 5095,
+		"Total balance" : 5095
+	},
+	{
+		"_id" : "IQD",
+		"Average balance" : 4269,
+		"Total balance" : 4269
+	},
+	{
+		"_id" : "RSD",
+		"Average balance" : 4276,
+		"Total balance" : 4276
+	},
+	{
+		"_id" : "MMK",
+		"Average balance" : 4629,
+		"Total balance" : 4629
+	},
+	{
+		"_id" : "KRW",
+		"Average balance" : 6689,
+		"Total balance" : 13378
+	},
+	{
+		"_id" : "TJS",
+		"Average balance" : 4087,
+		"Total balance" : 4087
+	},
+	{
+		"_id" : "RWF",
+		"Average balance" : 4632,
+		"Total balance" : 4632
+	},
+	{
+		"_id" : "BWP",
+		"Average balance" : 4076,
+		"Total balance" : 4076
+	},
+	{
+		"_id" : "CLP",
+		"Average balance" : 5251.75,
+		"Total balance" : 21007
+	},
+	{
+		"_id" : "ILS",
+		"Average balance" : 5431.666666666667,
+		"Total balance" : 16295
+	},
+	{
+		"_id" : "UZS",
+		"Average balance" : 3573,
+		"Total balance" : 3573
+	},
+	{
+		"_id" : "KZT",
+		"Average balance" : 3788,
+		"Total balance" : 3788
+	},
+	{
+		"_id" : "NZD",
+		"Average balance" : 5328,
+		"Total balance" : 5328
+	},
+	{
+		"_id" : "KYD",
+		"Average balance" : 3760,
+		"Total balance" : 3760
+	},
+	{
+		"_id" : "PKR",
+		"Average balance" : 4734,
+		"Total balance" : 18936
+	},
+	{
+		"_id" : "HRK",
+		"Average balance" : 4870.4,
+		"Total balance" : 24352
+	},
+	{
+		"_id" : "ZAR",
+		"Average balance" : 3929.6666666666665,
+		"Total balance" : 11789
+	},
+	{
+		"_id" : "CUP",
+		"Average balance" : 5005.333333333333,
+		"Total balance" : 15016
+	},
+	{
+		"_id" : "PLN",
+		"Average balance" : 5042.277777777777,
+		"Total balance" : 90761
+	},
+	{
+		"_id" : "ZWL",
+		"Average balance" : 5792,
+		"Total balance" : 5792
+	},
+	{
+		"_id" : "BRL",
+		"Average balance" : 4511.545454545455,
+		"Total balance" : 49627
+	},
+	{
+		"_id" : "SEK",
+		"Average balance" : 5059.428571428572,
+		"Total balance" : 70832
+	},
+	{
+		"_id" : "MNT",
+		"Average balance" : 5428.25,
+		"Total balance" : 21713
+	},
+	{
+		"_id" : "XAF",
+		"Average balance" : 4698,
+		"Total balance" : 14094
+	},
+	{
+		"_id" : "ZMW",
+		"Average balance" : 5569,
+		"Total balance" : 5569
+	},
+	{
+		"_id" : "SRD",
+		"Average balance" : 5286,
+		"Total balance" : 5286
+	},
+	{
+		"_id" : "RUB",
+		"Average balance" : 4989,
+		"Total balance" : 119736
+	},
+	{
+		"_id" : "JPY",
+		"Average balance" : 5078.333333333333,
+		"Total balance" : 60940
+	},
+	{
+		"_id" : "EGP",
+		"Average balance" : 5579,
+		"Total balance" : 5579
+	},
+	{
+		"_id" : "TZS",
+		"Average balance" : 3526,
+		"Total balance" : 7052
+	},
+	{
+		"_id" : "CDF",
+		"Average balance" : 6114,
+		"Total balance" : 12228
+	},
+	{
+		"_id" : "EUR",
+		"Average balance" : 4901.38,
+		"Total balance" : 245069
+	},
+	{
+		"_id" : "IDR",
+		"Average balance" : 4907.393939393939,
+		"Total balance" : 323888
+	},
+	{
+		"_id" : "ISK",
+		"Average balance" : 4316,
+		"Total balance" : 4316
+	},
+	{
+		"_id" : "NIO",
+		"Average balance" : 4985.5,
+		"Total balance" : 9971
+	},
+	{
+		"_id" : "AFN",
+		"Average balance" : 5584.666666666667,
+		"Total balance" : 16754
+	},
+	{
+		"_id" : "CZK",
+		"Average balance" : 4644,
+		"Total balance" : 37152
+	},
+	{
+		"_id" : "IRR",
+		"Average balance" : 4417,
+		"Total balance" : 26502
+	},
+	{
+		"_id" : "BOB",
+		"Average balance" : 5263,
+		"Total balance" : 5263
+	},
+	{
+		"_id" : "MGA",
+		"Average balance" : 4853,
+		"Total balance" : 14559
+	},
+	{
+		"_id" : "GTQ",
+		"Average balance" : 5806,
+		"Total balance" : 5806
+	},
+	{
+		"_id" : "UAH",
+		"Average balance" : 5058.5,
+		"Total balance" : 40468
+	},
+	{
+		"_id" : "COP",
+		"Average balance" : 4936.25,
+		"Total balance" : 19745
+	},
+	{
+		"_id" : "CNY",
+		"Average balance" : 4954.210526315789,
+		"Total balance" : 470650
+	},
+	{
+		"_id" : "NGN",
+		"Average balance" : 4157.333333333333,
+		"Total balance" : 24944
+	},
+	{
+		"_id" : "MWK",
+		"Average balance" : 3574,
+		"Total balance" : 3574
+	},
+	{
+		"_id" : "NPR",
+		"Average balance" : 5792,
+		"Total balance" : 5792
+	},
+	{
+		"_id" : "MXN",
+		"Average balance" : 5022.4,
+		"Total balance" : 50224
+	},
+	{
+		"_id" : "PYG",
+		"Average balance" : 4874,
+		"Total balance" : 4874
+	},
+	{
+		"_id" : "NOK",
+		"Average balance" : 4773,
+		"Total balance" : 4773
+	},
+	{
+		"_id" : "CAD",
+		"Average balance" : 5306.454545454545,
+		"Total balance" : 58371
+	},
+	{
+		"_id" : "DOP",
+		"Average balance" : 5168,
+		"Total balance" : 20672
+	},
+	{
+		"_id" : "VUV",
+		"Average balance" : 6418,
+		"Total balance" : 6418
+	},
+	{
+		"_id" : "HNL",
+		"Average balance" : 5504.333333333333,
+		"Total balance" : 16513
+	},
+	{
+		"_id" : "THB",
+		"Average balance" : 4604,
+		"Total balance" : 23020
+	},
+	{
+		"_id" : "VND",
+		"Average balance" : 4519.5,
+		"Total balance" : 36156
+	},
+	{
+		"_id" : "AMD",
+		"Average balance" : 4921.4,
+		"Total balance" : 24607
+	},
+	{
+		"_id" : "GBP",
+		"Average balance" : 6149,
+		"Total balance" : 6149
+	},
+	{
+		"_id" : "USD",
+		"Average balance" : 4978.266666666666,
+		"Total balance" : 74674
+	},
+	{
+		"_id" : "XOF",
+		"Average balance" : 5960,
+		"Total balance" : 17880
+	},
+	{
+		"_id" : "PHP",
+		"Average balance" : 4941.416666666667,
+		"Total balance" : 118594
+	},
+	{
+		"_id" : "BGN",
+		"Average balance" : 5300,
+		"Total balance" : 21200
+	},
+	{
+		"_id" : "YER",
+		"Average balance" : 4570.333333333333,
+		"Total balance" : 13711
+	},
+	{
+		"_id" : "ARS",
+		"Average balance" : 4647.8,
+		"Total balance" : 23239
+	},
+	{
+		"_id" : "VEF",
+		"Average balance" : 4166.5,
+		"Total balance" : 8333
+	},
+	{
+		"_id" : "MKD",
+		"Average balance" : 3835,
+		"Total balance" : 3835
+	},
+	{
+		"_id" : "PEN",
+		"Average balance" : 4660.75,
+		"Total balance" : 18643
+	},
+	{
+		"_id" : "ETB",
+		"Average balance" : 5436,
+		"Total balance" : 5436
+	}
+]

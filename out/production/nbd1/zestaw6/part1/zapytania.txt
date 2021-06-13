@@ -1,0 +1,15 @@
+//1
+MATCH (darj:town { name: "Darjeeling" }), (sand:peak { name: "Sandakphu" })
+MATCH path = ShortestPath((darj)-[*]->(sand))
+RETURN path
+
+//2
+MATCH (darj:town { name: "Darjeeling" }), (sand:peak { name: "Sandakphu" })
+MATCH path = ShortestPath((darj)-[*]->(sand))
+WHERE ALL (r IN relationships(path) WHERE r.winter = "true")
+RETURN path
+
+//3
+MATCH path = (darj:town { name: "Darjeeling" })-[rels*..5]->(sand:peak { name: "Sandakphu" })
+RETURN path, REDUCE(d = 0, r IN rels | d + r.distance) AS total_dist
+ORDER BY total_dist
