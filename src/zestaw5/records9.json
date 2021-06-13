@@ -1,0 +1,143 @@
+﻿[
+  {
+    "captain": {
+"identity": 176,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Cant Get Enough Marvel?",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "person": {
+"identity": 178,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Stephen McFeely",
+"born": 1969
+      }
+    },
+    "type(r)": "WROTE"
+  },
+  {
+    "captain": {
+"identity": 176,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Cant Get Enough Marvel?",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "person": {
+"identity": 180,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Samuel L. Jackson",
+"born": 1948
+      }
+    },
+    "type(r)": "ACTED_IN"
+  },
+  {
+    "captain": {
+"identity": 176,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Cant Get Enough Marvel?",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "person": {
+"identity": 181,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Joe Johnston",
+"born": 1950
+      }
+    },
+    "type(r)": "DIRECTED"
+  },
+  {
+    "captain": {
+"identity": 176,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Cant Get Enough Marvel?",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "person": {
+"identity": 182,
+"labels": [],
+"properties": {
+
+      }
+    },
+    "type(r)": "ACTED_IN"
+  },
+  {
+    "captain": {
+"identity": 176,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Cant Get Enough Marvel?",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "person": {
+"identity": 179,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Chris Evans",
+"born": 1981
+      }
+    },
+    "type(r)": "ACTED_IN"
+  },
+  {
+    "captain": {
+"identity": 176,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Cant Get Enough Marvel?",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "person": {
+"identity": 177,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christopher Markus",
+"born": 1970
+      }
+    },
+    "type(r)": "WROTE"
+  }
+]
