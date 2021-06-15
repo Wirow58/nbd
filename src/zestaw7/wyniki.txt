@@ -1,0 +1,227 @@
+//1.
+
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvv8758YFiFAiZx4rw4Ui21t8WQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22949>; rel="up"
+Last-Modified: Tue, 15 Jun 2021 18:52:00 GMT
+ETag: "5jplIq30VTUxTkkxEPbZCl"
+Date: Tue, 15 Jun 2021 18:52:00 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 108
+
+{
+    "manufacturer": "Chevrolet",
+    "model": "Camaro",
+    "manufacturedIn": 1969,
+    "running": true,
+}
+
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvv8755YRkM2cwZTIlMfK4Flme4svCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22949>; rel="up"
+Last-Modified: Tue, 15 Jun 2021 19:06:49 GMT
+ETag: "2er8RuPLihZzE0XWz1KfHu"
+Date: Tue, 15 Jun 2021 19:06:49 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 108
+
+{
+    "manufacturer": "Daewoo",   
+    "model": "Tico",  
+    "manufacturedIn": 1999,
+    "running": false
+}
+
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvv87554RkM2UwZTInMfKkF9me4svCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22949>; rel="up"
+Last-Modified: Tue, 15 Jun 2021 19:07:27 GMT
+ETag: "2sBd5onP8mL55otTmUVRnl"
+Date: Tue, 15 Jun 2021 19:07:27 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 105
+
+{
+    "manufacturer": "Renault",
+    "model": "Megane",
+    "manufacturedIn": 2001,
+    "running": true
+}
+
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvv87P5AdIpTIksfK0Ftme4svCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22949>; rel="up"
+Last-Modified: Tue, 15 Jun 2021 19:07:57 GMT
+ETag: "18vIoR6RRJKkzIWBWCHV79"
+Date: Tue, 15 Jun 2021 19:07:57 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 104
+
+{
+    "manufacturer": "Dodge",
+    "model": "Charger",
+    "manufacturedIn": 1985,
+    "running": true
+}
+
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvv875958IJs5gymRMY+VYWq17S2+LAA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22949>; rel="up"
+Last-Modified: Tue, 15 Jun 2021 19:29:25 GMT
+ETag: "78ogQrzeZBChWuaJbub2K"
+Date: Tue, 15 Jun 2021 19:29:25 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 97
+
+{
+    "manufacturer": "BMW",
+    "model": "M3",
+    "manufacturedIn": 1990,
+    "running": true
+}
+
+//2.
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvv8758YFiFAiVx4rQ3CJ7S2+LAA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22949>; rel="up"
+Last-Modified: Tue, 15 Jun 2021 18:58:27 GMT
+ETag: "3lBIi8fd9pAEt59to96M5k"
+Date: Tue, 15 Jun 2021 19:08:25 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 128
+
+{
+    "manufacturer": "Chevrolet",
+    "model": "Camaro",
+    "manufacturedIn": 1969,
+    "running": true, "color": "sea-blue"
+}
+
+//3.
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvv8758YFiFAidx4rw/Ey21t8WQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22949>; rel="up"
+Last-Modified: Tue, 15 Jun 2021 19:08:55 GMT
+ETag: "52RTUc4VvbQWwyaIAqi2dZ"
+Date: Tue, 15 Jun 2021 19:08:55 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 132
+
+{
+    "manufacturer": "Chevrolet",
+    "model": "Camaro",
+    "manufacturedIn": 1969,
+    "running": true,
+    "color": "sea-blue"
+}
+
+//4.
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvv8755YRkM2cwZTInMfKIF1ue4svCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22949>; rel="up"
+Last-Modified: Tue, 15 Jun 2021 19:10:19 GMT
+ETag: "vHI7jhankduuU1gO1UbVB"
+Date: Tue, 15 Jun 2021 19:10:19 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+
+{
+    "manufacturer": "Daewoo",
+    "model": "Tico",
+    "running": false
+}
+
+//5.
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvv8758YFiFAiTx4rQ0K57S2+LAA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22949>; rel="up"
+Last-Modified: Tue, 15 Jun 2021 19:11:28 GMT
+ETag: "aeV3EBF50X1gyHL6oRBuK"
+Date: Tue, 15 Jun 2021 19:11:28 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 107
+
+{
+    "manufacturer": "Chevrolet",
+    "model": "Camaro",
+    "manufacturedIn": 1975,
+    "running": true
+}
+
+//6.
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Tue, 15 Jun 2021 19:13:38 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+
+//7.
+HTTP/1.1 404 Object Not Found
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Tue, 15 Jun 2021 19:17:27 GMT
+Content-Type: text/plain
+Content-Length: 10
+
+not found
+
+//8.
+HTTP/1.1 201 Created
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvv+70KMVIpTImMfKkFBpe4svCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Location: /buckets/s22949/keys/OVcHA9ASjF6k42KTwF4gYIIRS2e
+Link: </buckets/s22949>; rel="up"
+Last-Modified: Tue, 15 Jun 2021 19:20:00 GMT
+ETag: "3gSkLEQksDRi3YHQdrxuOK"
+Date: Tue, 15 Jun 2021 19:20:00 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 25
+
+{
+    "model": "Superb"
+}
+
+//9.
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvv+70KMVIpTImMfKkFBpe4svCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22949>; rel="up"
+Last-Modified: Tue, 15 Jun 2021 19:20:00 GMT
+ETag: "3gSkLEQksDRi3YHQdrxuOK"
+Date: Tue, 15 Jun 2021 19:21:32 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 25
+
+{
+    "model": "Superb"
+}
+
+//10.
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Tue, 15 Jun 2021 19:24:05 GMT
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+
+
