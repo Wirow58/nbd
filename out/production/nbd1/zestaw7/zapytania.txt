@@ -1,0 +1,79 @@
+//1.
+curl -i -XPUT -H "Content_Type: application/json" -d '{
+    "manufacturer": "Chevrolet",
+    "model": "Camaro",
+    "manufacturedIn": 1969,
+    "running": true,
+}' 'http://localhost:8098/buckets/s22949/keys/Camaro?returnbody=true'
+
+curl -i -XPUT -H "Content_Type: application/json" -d '{
+    "manufacturer": "Daewoo",
+    "model": "Tico",
+    "manufacturedIn": 1999,
+    "running": false
+}' 'http://localhost:8098/buckets/s22949/keys/Tico?returnbody=true'
+
+curl -i -XPUT -H "Content_Type: application/json" -d '{
+    "manufacturer": "Renault",
+    "model": "Megane",
+    "manufacturedIn": 2001,
+    "running": true
+}' 'http://localhost:8098/buckets/s22949/keys/Megane?returnbody=true'
+
+curl -i -XPUT -H "Content_Type: application/json" -d '{
+    "manufacturer": "Dodge",
+    "model": "Charger",
+    "manufacturedIn": 1985,
+    "running": true
+}' 'http://localhost:8098/buckets/s22949/keys/Charger?returnbody=true'
+
+curl -i -XPUT -H "Content_Type: application/json" -d '{
+    "manufacturer": "BMW",
+    "model": "M3",
+    "manufacturedIn": 1990,
+    "running": true
+}' 'http://localhost:8098/buckets/s22949/keys/M3?returnbody=true'
+
+//2.
+curl -i http://localhost:8098/buckets/s22949/keys/Camaro
+
+//3.
+curl -i -XPUT -H "Content_Type: application/json" -d '{
+    "manufacturer": "Chevrolet",
+    "model": "Camaro",
+    "manufacturedIn": 1969,
+    "running": true,
+    "color": "sea-blue"
+}' 'http://localhost:8098/buckets/s22949/keys/Camaro?returnbody=true'
+
+//4.
+curl -i -XPUT -H "Content_Type: application/json" -d '{
+    "manufacturer": "Daewoo",
+    "model": "Tico",
+    "running": false
+}' 'http://localhost:8098/buckets/s22949/keys/Tico?returnbody=true'
+
+//5.
+curl -i -XPUT -H "Content_Type: application/json" -d '{
+    "manufacturer": "Chevrolet",
+    "model": "Camaro",
+    "manufacturedIn": 1975,
+    "running": true                                                
+}' 'http://localhost:8098/buckets/s22949/keys/Camaro?returnbody=true'
+
+//6.
+curl -i -XDELETE http://localhost:8098/buckets/s22949/keys/Tico
+
+//7.
+curl -i  http://localhost:8098/buckets/s22949/keys/SuccessfulPolishCarIndustry
+
+//8.
+curl -i -XPOST -H "Content_Type: application/json" -d '{
+    "model": "Superb"
+}' 'http://localhost:8098/buckets/s22949/keys?returnbody=true'
+
+//9.
+curl -i http://localhost:8098/buckets/s22949/keys/OVcHA9ASjF6k42KTwF4gYIIRS2e
+
+//10.
+curl -i -XDELETE http://localhost:8098/buckets/s22949/keys/OVcHA9ASjF6k42KTwF4gYIIRS2e
